@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6FFFD8C0-0DE9-42DD-B432-7C74D6D5EF64</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HNACalendar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E44C214-1A09-4603-BCCB-64273DEB7209</key>
+		<string>ssh://git.dev.hnagroup.net/dongjiali/hnacalendarpicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HNACalendar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E44C214-1A09-4603-BCCB-64273DEB7209</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.dev.hnagroup.net/dongjiali/hnacalendarpicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E44C214-1A09-4603-BCCB-64273DEB7209</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E44C214-1A09-4603-BCCB-64273DEB7209</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HNACalendar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
