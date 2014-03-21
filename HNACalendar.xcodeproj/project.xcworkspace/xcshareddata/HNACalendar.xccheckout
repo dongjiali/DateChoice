@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6FFFD8C0-0DE9-42DD-B432-7C74D6D5EF64</string>
+	<string>120BEB9F-9D16-40C5-8CDB-AD4186E655D8</string>
 	<key>IDESourceControlProjectName</key>
 	<string>HNACalendar</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3E44C214-1A09-4603-BCCB-64273DEB7209</key>
-		<string>ssh://git.dev.hnagroup.net/dongjiali/hnacalendarpicker.git</string>
+		<key>816FA7FB-38B1-49CA-B652-167D500A512A</key>
+		<string>https://github.com/dongjiali/DateChoice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>HNACalendar.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3E44C214-1A09-4603-BCCB-64273DEB7209</key>
+		<key>816FA7FB-38B1-49CA-B652-167D500A512A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://git.dev.hnagroup.net/dongjiali/hnacalendarpicker.git</string>
+	<string>https://github.com/dongjiali/DateChoice.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3E44C214-1A09-4603-BCCB-64273DEB7209</string>
+	<string>816FA7FB-38B1-49CA-B652-167D500A512A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3E44C214-1A09-4603-BCCB-64273DEB7209</string>
+			<string>816FA7FB-38B1-49CA-B652-167D500A512A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>HNACalendar</string>
+			<string>DateChoice</string>
 		</dict>
 	</array>
 </dict>
