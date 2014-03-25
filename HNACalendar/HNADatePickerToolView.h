@@ -2,7 +2,7 @@
 //  HNADatePickerToolView.h
 //  HNACalendar
 //
-//  Created by 董家力 on 14-3-8.
+//  Created by curry on 14-3-8.
 //  Copyright (c) 2014年 HNACalendar. All rights reserved.
 //
 
